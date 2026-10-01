@@ -1,6 +1,13 @@
 # Checkpoint 02 — APIs, energias renováveis e aprendizado de máquina
 
-**Aluno(a):** _seu nome_ · **RM:** _seu RM_ · Ciência da Computação — 1º ano, 2º semestre
+- Gabriel Fagundes - RM: 569074
+- Gabriel Freitas - RM: 572943
+- Giovanni Merlotti - RM: 573721
+- Glauco Kelly - RM: 572840
+- Sergio Augusto Amaral - RM: 570184
+- Thiago Renatino - RM: 569073
+
+Ciência da Computação — 1º ano, 2º semestre
 
 ## Objetivo
 

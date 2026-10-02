@@ -82,10 +82,6 @@ Avaliação: **mesma divisão temporal para os três**: primeiras 80% das horas 
 
 **Conclusões:** o Random Forest é o melhor. A **hora** é a variável mais importante, mas sua relação com a radiação tem formato de sino (pico ao meio-dia), o que os modelos de árvore capturam e a regressão linear não. O teste (fim de junho, inverno) tem radiação média menor que o treino, o que torna a avaliação temporal mais exigente e realista. Estimar radiação **não é prever geração elétrica**: W/m² horizontal ≠ kWh; a geração depende de área, inclinação e orientação dos painéis, eficiência (que cai com o calor), perdas do inversor, sujeira e sombreamento.
 
-### Atividade complementar — Orange
-
-Fluxos, configuração e análise em [`orange/ANALISE_ORANGE.md`](orange/ANALISE_ORANGE.md).
-
 ## Referências
 
 - ANEEL — SIGA: https://dadosabertos.aneel.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel

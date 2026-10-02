@@ -31,12 +31,7 @@ Observações: a potência da ANEEL é **outorgada** (não é energia gerada) e 
 ├── README.md
 ├── CP02_Energias_Renovaveis_ML.ipynb   # notebook completo (APIs + 6 modelos + análises)
 ├── aneel_classificacao_orange.csv      # gerado pelo notebook (Tarefa 1)
-├── meteo_regressao_orange.csv          # gerado pelo notebook (Tarefa 2)
-└── orange/
-    ├── ANALISE_ORANGE.md               # atividade complementar no Orange
-    ├── meteo_treino_orange.csv         # 80% iniciais (800 horas) para o Test & Score
-    ├── meteo_teste_orange.csv          # 20% finais (201 horas)
-    └── capturas/                       # prints dos fluxos do Orange
+└── meteo_regressao_orange.csv          # gerado pelo notebook (Tarefa 2) 
 ```
 
 ## Como executar
